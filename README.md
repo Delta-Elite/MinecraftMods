@@ -1,2 +1,2 @@
-# MinecraftMods
-A collection of all my Minecraft mods
+# Computing mod
+This Minecraft mod was made for a school project
